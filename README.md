@@ -1,6 +1,6 @@
-# This is a Jupyter Notebook of a sales prediction project on Kaggle.
+# This is a sales prediction project with Kaggle.
 
-The input dataset contains sales information from the previous year
+The input dataset contains sales information from the previous year.
 
 The task of this project is to predict future sales.
 
@@ -12,4 +12,4 @@ The task of this project is to predict future sales.
 
 3. build the model
 
-4. analyze the performance results
+4. analyze the performance results and choose a model
