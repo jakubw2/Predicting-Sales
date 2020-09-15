@@ -4,7 +4,7 @@ The input dataset contains sales information from the previous year.
 
 The task of this project is to predict future sales.
 
-#outline 
+Outline 
 
 1. inspect and visualize the data
 
