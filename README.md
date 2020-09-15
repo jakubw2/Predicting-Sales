@@ -3,6 +3,8 @@
 #The input dataset contains sales information from the previous year
 #The task of this project is to predict future sales.
 
-#outline /n
+#outline 
+
 #1. inspect and visualize the data
+
 #2. create training and validation subsets
