@@ -11,3 +11,5 @@ The task of this project is to predict future sales.
 2. create training and validation subsets
 
 3. build the model
+
+4. analyze the performance results
